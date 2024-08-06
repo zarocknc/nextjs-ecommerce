@@ -47,6 +47,8 @@ export default function Home() {
             Read our docs
           </a>
         </div>
+
+        <div className="h-screen bg-blue-900/80"> Fondo screen</div>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a
